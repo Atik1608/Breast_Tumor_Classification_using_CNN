@@ -19,5 +19,5 @@ ___________________
 
 
 
-###### Special NOTE:- These notebooks can be used as a reference by anyone, who wants to learn these common techniques used when data size is small. By following similar patterns, you can use these notebooks for binary and multi classification of any image data.
+###### Special NOTE:- These notebooks can be used as a reference by anyone, who wants to learn these common techniques used when data size is small. By following similar patterns, you can use these notebooks for binary and multi-class classification of any image data.
 
